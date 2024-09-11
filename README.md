@@ -1,5 +1,5 @@
 # Anish's Portfolio
-<img src="https://i.ibb.co/sR2Yvb4/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/SPwtC5n/Portfolio-Thumbnail.jpg" alt="Portfolio-Thumbnail" border="0">
 
 ## Overview
 <img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="150" height="150"/>
