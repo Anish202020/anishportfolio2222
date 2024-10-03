@@ -1,5 +1,5 @@
 # Anish's Portfolio
-<img src="https://i.ibb.co/SPwtC5n/Portfolio-Thumbnail.jpg" alt="Portfolio-Thumbnail" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/1.png" alt="Portfolio-Thumbnail" border="0">
 
 ## Overview
 <img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="150" height="150"/>
@@ -22,7 +22,7 @@ Anish's Portfolio is a personal website designed to showcase Anish's projects an
 ### Flow Diagram
 <details>
   <summary>Click to See The DataFlow Diagram</summary>
-<img src="https://i.pinimg.com/736x/4a/3e/02/4a3e0214824b284344daa4c811c4a37c.jpg"/>
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Dataflow/portfolio.png"/>
 
 The Above is the Dataflow Diagram of Anish's Portfolio
 </details>
